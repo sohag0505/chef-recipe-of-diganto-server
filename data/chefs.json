@@ -41,7 +41,7 @@
           "carrots",
           "red pepper",
           "garlic",
-          "soy sauce",
+
           "chili sauce"
         ],
         "cookingMethod": "Stir-fry shrimp and vegetables in wok with garlic, add soy sauce and chili sauce for flavor",
@@ -162,7 +162,6 @@
           "flour",
           "cornstarch",
           "garlic",
-
           "soy sauce",
           "gochujang"
         ],
@@ -176,8 +175,6 @@
           "beef",
           "carrots",
           "spinach",
-          "mushrooms",
-          "zucchini",
           "soy sauce",
           "gochujang"
         ],
@@ -238,7 +235,6 @@
         "ingredients": [
           "flour",
           "sugar",
-
           "eggs",
           "milk",
           "oil",
