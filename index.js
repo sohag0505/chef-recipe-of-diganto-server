@@ -6,7 +6,7 @@ app.use(cors());
 const chefArray = require("./data/chefs.json");
 
 app.get("/", (req, res) => {
-  res.send("hello world");
+  res.send("Hello world");
 });
 app.get("/chefs", (req, res) => {
   res.send(chefArray);
