@@ -1,0 +1,295 @@
+[
+    {
+        "chefName": "John Smith",
+        "yearOfExperience": 10,
+        "numberOfRecipes": 50,
+        "id":1,
+        "imageLink": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+        "likes": 500,
+        "recipes": [
+            {
+                "recipeName": "Pesto Pasta",
+                "ingredients": [
+                    "pasta",
+                    "basil",
+                    "garlic",
+                    "olive oil",
+                    "pine nuts",
+                    "parmesan cheese"
+                ],
+                "cookingMethod": "Boil pasta, blend basil, garlic, olive oil, and pine nuts in food processor, mix with cooked pasta and grated parmesan cheese",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Beef Stroganoff",
+                "ingredients": [
+                    "beef",
+                    "mushrooms",
+                    "onion",
+                    "sour cream",
+                    "egg noodles",
+                    "beef broth"
+                ],
+                "cookingMethod": "Brown beef in pan, sauté mushrooms and onions, add beef broth and let simmer, mix in sour cream and serve over egg noodles",
+                "rating": 4.2
+            },
+            {
+                "recipeName": "Spicy Shrimp Stir-Fry",
+                "ingredients": [
+                    "shrimp",
+                    "broccoli",
+                    "carrots",
+                    "red pepper",
+                    "garlic",
+                    "soy sauce",
+                    "chili sauce"
+                ],
+                "cookingMethod": "Stir-fry shrimp and vegetables in wok with garlic, add soy sauce and chili sauce for flavor",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "chefName": "Sarah Lee",
+        "id":2,
+        "yearOfExperience": 8,
+        "numberOfRecipes": 80,
+        "imageLink": "https://images.unsplash.com/photo-1572715376701-98568319fd0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "likes": 600,
+        "recipes": [
+            {
+                "recipeName": "Chicken Curry",
+                "ingredients": [
+                    "chicken",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "coconut milk",
+                    "curry powder"
+                ],
+                "cookingMethod": "Sauté onion, garlic, and ginger in pan, add chicken and cook until browned, mix in curry powder and coconut milk, let simmer until chicken is cooked through",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Mushroom Risotto",
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "onion",
+                    "garlic",
+                    "white wine",
+                    "parmesan cheese"
+                ],
+                "cookingMethod": "Sauté onion and garlic in pan, add rice and stir until coated, slowly add white wine and chicken broth until rice is cooked, mix in sautéed mushrooms and parmesan cheese",
+                "rating": 4.4
+            },
+            {
+                "recipeName": "Cherry Pie",
+                "ingredients": [
+                    "pie crust",
+                    "cherries",
+                    "sugar",
+                    "cornstarch",
+                    "vanilla extract",
+                    "butter"
+                ],
+                "cookingMethod": "Mix cherries, sugar, cornstarch, and vanilla extract in bowl, pour into pie crust, top with butter and bake in oven",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "chefName": "Maria Rodriguez",
+        "id":3,
+        "yearOfExperience": 12,
+        "numberOfRecipes": 100,
+        "imageLink": "https://images.unsplash.com/photo-1595257841889-eca2678454e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "likes": 800,
+        "recipes": [
+            {
+                "recipeName": "Tacos al Pastor",
+                "ingredients": [
+                    "pork",
+                    "pineapple",
+                    "onion",
+                    "cilantro",
+                    "corn tortillas"
+                ],
+                "cookingMethod": "Marinate pork in adobo sauce, grill with pineapple and onion, serve on tortillas with cilantro",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Enchiladas Verdes",
+                "ingredients": [
+                    "chicken",
+                    "tortillas",
+                    "tomatillos",
+                    "jalapeno",
+                    "onion",
+                    "sour cream"
+                ],
+                "cookingMethod": "Blend tomatillos, jalapeno, and onion in food processor, mix with shredded chicken and sour cream, roll in tortillas and bake in oven",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Flan",
+                "ingredients": [
+                    "eggs",
+                    "milk",
+                    "sugar",
+                    "vanilla extract"
+                ],
+                "cookingMethod": "Mix eggs, milk, sugar, and vanilla extract in bowl, pour into ramekins, and bake in water bath until set",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "chefName": "David Kim",
+        "id":4,
+        "yearOfExperience": 7,
+        "numberOfRecipes": 60,
+        "imageLink": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "likes": 550,
+        "recipes": [
+            {
+                "recipeName": "Korean Fried Chicken",
+                "ingredients": [
+                    "chicken wings",
+                    "flour",
+                    "cornstarch",
+                    "garlic",
+                    "ginger",
+                    "soy sauce",
+                    "gochujang"
+                ],
+                "cookingMethod": "Coat chicken wings in mixture of flour and cornstarch, fry until crispy, toss in sauce made from garlic, ginger, soy sauce, and gochujang",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Bibimbap",
+                "ingredients": [
+                    "rice",
+                    "beef",
+                    "carrots",
+                    "spinach",
+                    "mushrooms",
+                    "zucchini",
+                    "soy sauce",
+                    "gochujang"
+                ],
+                "cookingMethod": "Cook rice, sauté beef and vegetables, top rice with beef and vegetables, serve with soy sauce and gochujang",
+                "rating": 4.3
+            },
+            {
+                "recipeName": "Kimchi",
+                "ingredients": [
+                    "napa cabbage",
+                    "radish",
+                    "garlic",
+                    "ginger",
+                    "gochugaru",
+                    "fish sauce"
+                ],
+                "cookingMethod": "Salt cabbage and radish, mix with garlic, ginger, gochugaru, and fish sauce, let ferment until sour and spicy",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chefName": "Emily Chen",
+        "id":5,
+        "yearOfExperience": 9,
+        "numberOfRecipes": 70,
+        "imageLink": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "likes": 600,
+        "recipes": [
+            {
+                "recipeName": "Shrimp Scampi",
+                "ingredients": [
+                    "shrimp",
+                    "linguine",
+                    "garlic",
+                    "butter",
+                    "lemon",
+                    "parsley"
+                ],
+                "cookingMethod": "Sauté shrimp and garlic in butter, toss with linguine, lemon, and parsley",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Beef Stir-Fry",
+                "ingredients": [
+                    "beef",
+                    "broccoli",
+                    "carrots",
+                    "onion",
+                    "soy sauce",
+                    "hoisin sauce"
+                ],
+                "cookingMethod": "Stir-fry beef and vegetables, add soy sauce and hoisin sauce",
+                "rating": 4.3
+            },
+            {
+                "recipeName": "Chocolate Cake",
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "cocoa powder",
+                    "eggs",
+                    "milk",
+                    "oil",
+                    "vanilla extract"
+                ],
+                "cookingMethod": "Mix dry ingredients, add wet ingredients, pour into cake pans, bake until done",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chefName": "Juan Rodriguez",
+        "id":6,
+        "yearOfExperience": 12,
+        "numberOfRecipes": 120,
+        "imageLink": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "likes": 800,
+        "recipes": [
+            {
+                "recipeName": "Grilled Steak",
+                "ingredients": [
+                    "steak",
+                    "salt",
+                    "pepper",
+                    "olive oil"
+                ],
+                "cookingMethod": "Season steak with salt and pepper, grill until desired doneness",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Fish Tacos",
+                "ingredients": [
+                    "white fish",
+                    "flour tortillas",
+                    "cabbage",
+                    "avocado",
+                    "salsa",
+                    "lime"
+                ],
+                "cookingMethod": "Grill or pan-fry fish, assemble tacos with cabbage, avocado, salsa, and lime",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "pasta",
+                    "bacon",
+                    "eggs",
+                    "Parmesan cheese",
+                    "black pepper"
+                ],
+                "cookingMethod": "Cook pasta and bacon, mix with beaten eggs and Parmesan cheese, season with black pepper",
+                "rating": 4.8
+            }
+        ]
+    }
+]
